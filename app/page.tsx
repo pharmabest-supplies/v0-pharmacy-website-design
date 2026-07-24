@@ -1,6 +1,5 @@
 import Hero from "@/components/Hero";
 import BenefitsMarquee from "@/components/BenefitsMarquee";
-import TrustLogoBar from "@/components/TrustLogoBar";
 import FeaturedProducts from "@/components/FeaturedProducts";
 import WhyUs from "@/components/WhyUs";
 import WhyThermal from "@/components/WhyThermal";
@@ -13,7 +12,6 @@ export default function Page() {
     <>
       <Hero />
       <BenefitsMarquee />
-      <TrustLogoBar />
       <WhyUs />
       <WhyThermal />
       <FeaturedProducts />
