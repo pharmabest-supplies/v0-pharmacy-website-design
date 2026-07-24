@@ -51,8 +51,8 @@ export default async function FeaturedProducts() {
             <div className="section-label mb-4">Essential Supplies</div>
             <h2 className="mb-4 text-slate-900">Premium quality for every pharmacy</h2>
             <p className="text-slate-600 text-lg">
-              We provide the most trusted thermal labels and receipt rolls for IDA, Guardian,
-              and Pharmasave locations across Ontario.
+              We provide the most trusted thermal labels and receipt rolls for Pharmasave
+   and independent pharmacy locations across Ontario.
             </p>
           </div>
           <div className="hidden md:block">

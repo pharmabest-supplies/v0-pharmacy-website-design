@@ -1,11 +1,7 @@
 import Image from "next/image";
-
 const logos = [
-  { src: "/logo-guardian.png", alt: "Guardian" },
   { src: "/logo-pharmasave.png", alt: "Pharmasave" },
-  { src: "/logo-ida.png", alt: "I.D.A." },
 ];
-
 export default function TrustLogoBar() {
   const items = [...logos, ...logos, ...logos, ...logos, ...logos, ...logos];
 

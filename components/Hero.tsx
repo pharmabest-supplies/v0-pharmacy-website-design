@@ -74,7 +74,7 @@ export default function Hero() {
               <div className="absolute bottom-[5%] right-[5%] w-[50%] aspect-square rounded-3xl overflow-hidden bg-white shadow-2xl shadow-blue-900/10 rotate-6 transition-transform hover:rotate-0 duration-500 z-10 border border-white/50">
                 <Image
                   src="/product-custom-thermal-labels.jpg"
-                  alt="IDA custom thermal labels"
+                  alt="Custom thermal labels"
                   fill
                   className="object-cover p-2 rounded-3xl"
                   sizes="350px"

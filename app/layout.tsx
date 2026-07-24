@@ -22,7 +22,6 @@ export const metadata: Metadata = {
     "thermal printers",
     "thermal receipt rolls",
     "custom pharmacy labels",
-    "IDA labels",
     "Pharmasave labels",
     "Toronto",
     "Ontario",
