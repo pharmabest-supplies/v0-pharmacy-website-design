@@ -23,7 +23,7 @@ const categories = [
   {
     title: "Custom Printing",
     description: "Branded labels and receipts with your pharmacy's logo and contact info.",
-    image: "/product-custom-thermal-labels.jpg",
+    image: "/product-plain-thermal-labels.jpg",
     bg: "bg-sky-50",
     hoverBg: "hover:bg-sky-100/80",
     href: "#products",
