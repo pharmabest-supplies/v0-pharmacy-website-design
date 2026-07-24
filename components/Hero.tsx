@@ -31,6 +31,7 @@ export default function Hero() {
               <a href="#products" className="btn-brand group">
                 Shop Our Products
                 <ArrowRight className="w-5 h-5 transition-transform group-hover:translate-x-1" />
+              </a>
               <a href="#custom" className="btn-outline">
                 Get a Custom Quote
               </a>
