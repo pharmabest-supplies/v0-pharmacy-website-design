@@ -93,8 +93,8 @@ export default function CustomOrder() {
             <div className="relative h-[320px] max-w-md hidden sm:block">
               <div className="absolute left-0 bottom-0 w-[220px] aspect-square rounded-[32px] overflow-hidden bg-white shadow-2xl rotate-[-6deg] p-3 border border-slate-100">
                 <Image
-                  src="/product-custom-thermal-labels.jpg"
-                  alt="Custom labels"
+                  src="/product-plain-thermal-labels.jpg"
+                  alt="Thermal labels"
                   fill
                   className="object-cover rounded-[24px]"
                   sizes="220px"
